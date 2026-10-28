@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tashkent",
+        "temp_c": 25.3,
+        "feelslike_c": 19.4,
+        "wind_kph": 19.8,
+        "last_updated": "2026-09-26 16:45",
+        "text": "Sunny"
+    },
+    {
+        "name": "Moscow",
+        "temp_c": 15.9,
+        "feelslike_c": 12.7,
+        "wind_kph": 11.9,
+        "last_updated": "2026-09-26 14:45",
+        "text": "Partly Cloudy"
+    },
+    {
+        "name": "London",
+        "temp_c": 18.0,
+        "feelslike_c": 16.3,
+        "wind_kph": 4.0,
+        "last_updated": "2026-09-26 12:45",
+        "text": "Overcast"
+    }
+]
